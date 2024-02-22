@@ -1,0 +1,18 @@
+body{
+    
+    background-image:url(lavi.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    text-align:center
+}
+body h1{
+    color:rgb(68, 68, 129);
+    font-style:initial;
+    
+}
+body table button{
+    background-color:lavender ;
+}
+BODY BUTTON{
+    color: rgb(48, 31, 64);
+}
